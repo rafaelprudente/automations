@@ -1,0 +1,11 @@
+tasks:
+  Get Fiis Info:
+    robotTaskName: Get Fiis Info
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

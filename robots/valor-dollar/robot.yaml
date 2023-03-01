@@ -1,0 +1,11 @@
+tasks:
+  "Obter Valor Cota\xE7\xE3o Euro":
+    robotTaskName: "Obter Valor Cota\xE7\xE3o Euro"
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

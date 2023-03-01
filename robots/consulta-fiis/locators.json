@@ -1,0 +1,23 @@
+{
+    "Idcarbonfieldsfiisheader2divdivdiv1div1h1": {
+        "screenshot": ".images/idcarbonfieldsfiisheader2divdivdiv1div1h1-screenshot.png",
+        "source": "https://fiis.com.br/snff11/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//*[@id=\"carbon_fields_fiis_header-2\"]/div/div/div[1]/div[1]/h1"
+    },
+    "IdletteridAdiv1div1adiv": {
+        "screenshot": ".images/idletteridadiv1div1adiv-screenshot.png",
+        "source": "https://fiis.com.br/lista-de-fundos-imobiliarios/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//*[@id=\"letter-id-A\"]/div[1]/div[1]/a/div"
+    },
+    "SearchTickerfound": {
+        "screenshot": ".images/searchtickerfound-screenshot.png",
+        "source": "https://fiis.com.br/lista-de-fundos-imobiliarios/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".searchTicker__found"
+    }
+}

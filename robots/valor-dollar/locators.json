@@ -1,0 +1,79 @@
+{
+    "Address": {
+        "screenshot": ".images/address-screenshot.png",
+        "source": "https://rpachallenge.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//label[contains(.,'Address')]/../input"
+    },
+    "ButtonidW0wltcdiv": {
+        "screenshot": ".images/buttonidw0wltcdiv-screenshot.png",
+        "source": "https://www.google.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//button[@id='W0wltc']/div"
+    },
+    "Company Name": {
+        "screenshot": ".images/company-name-screenshot.png",
+        "source": "https://rpachallenge.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//label[contains(.,'Company Name')]/../input"
+    },
+    "Congratulations": {
+        "screenshot": null,
+        "source": "https://rpachallenge.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "div.congratulations"
+    },
+    "Email": {
+        "screenshot": ".images/email-screenshot.png",
+        "source": "https://rpachallenge.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//label[contains(.,'Email')]/../input"
+    },
+    "First Name": {
+        "screenshot": ".images/first-name-screenshot.png",
+        "source": "https://rpachallenge.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//label[contains(.,'First Name')]/../input"
+    },
+    "Idknowledgecurrencyupdatabledatacolumndiv1div2span1": {
+        "screenshot": ".images/idknowledgecurrencyupdatabledatacolumndiv1div2span1-screenshot.png",
+        "source": "https://www.google.com/search?q=Cota%C3%A7%C3%A3o+euro+real+brasileiro&newwindow=1&rlz=1C5CHFA_enBR1004BR1004&sxsrf=AJOqlzVWhip2IUho70hwHh2Y5r6cIbZDiQ%3A1675813778582&ei=kuPiY7qII6mF9u8PtNetUA&ved=0ahUKEwi6me3nzIT9AhWpgv0HHbRrCwoQ4dUDCA8&uact=5&oq=Cota%C3%A7%C3%A3o+euro+real+brasileiro&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIKCAAQgAQQRhCCAjIGCAAQFhAeMgsIABAWEB4Q8QQQCjIGCAAQFhAeMgYIABAWEB4yCQgAEBYQHhDxBDIJCAAQFhAeEPEEMgkIABAWEB4Q8QQyCQgAEBYQHhDxBDoKCAAQRxDWBBCwAzoHCAAQsAMQQzoSCC4QxwEQ0QMQyAMQsAMQQxgBOgQIIxAnOgQIABBDOgYIABAHEB46CQgAEAcQHhDxBDoHCAAQDRCABDoJCCMQJxBGEIICOgUIABCABDoJCAAQQxBGEIICSgQIQRgASgQIRhgAUOgHWJguYI4yaAJwAXgAgAGCAYgBgxCSAQQwLjE4mAEAoAEByAEMwAEB2gEECAEYCA&sclient=gws-wiz-serp",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//*[@id=\"knowledge-currency__updatable-data-column\"]/div[1]/div[2]/span[1]"
+    },
+    "Last Name": {
+        "screenshot": ".images/last-name-screenshot.png",
+        "source": "https://rpachallenge.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//label[contains(.,'Last Name')]/../input"
+    },
+    "Phone Number": {
+        "screenshot": ".images/phone-number-screenshot.png",
+        "source": "https://rpachallenge.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//label[contains(.,'Phone Number')]/../input"
+    },
+    "Role in Company": {
+        "screenshot": ".images/role-in-company-screenshot.png",
+        "source": "https://rpachallenge.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//label[contains(.,'Role in Company')]/../input"
+    },
+    "W0wltcQS5gu": {
+        "screenshot": ".images/w0wltcqs5gu-screenshot.png",
+        "source": "https://www.google.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#W0wltc > .QS5gu"
+    }
+}
